@@ -1,5 +1,7 @@
 app/models/gpt2-small-portuguese/model.safetensors
-
+arquivos_gerados/
+arquivos/
+logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -28,8 +30,6 @@ var/
 
 # Virtual environments
 venv/
-ENV/
-env/
 .venv/
 env.bak/
 venv.bak/
@@ -79,7 +79,3 @@ Desktop.ini
 
 # PDF analysis outputs
 *.pdf
-
-# Local env files
-.env
-.env.*
