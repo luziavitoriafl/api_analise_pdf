@@ -1,5 +1,4 @@
 
-````markdown
 # API de Análise e Continuação de Texto em PDF
 
 Este projeto é uma API REST desenvolvida com FastAPI que permite o upload de arquivos PDF, extrai o texto deles usando a biblioteca `docling` e gera uma continuação do texto com um modelo de linguagem baseado em GPT-2 treinado em português.
@@ -29,7 +28,6 @@ Este projeto é uma API REST desenvolvida com FastAPI que permite o upload de ar
    ```bash
    git clone <URL_DO_SEU_REPOSITORIO>
    cd api_analise_pdf
-````
 
 2. Crie e ative um ambiente virtual:
 
